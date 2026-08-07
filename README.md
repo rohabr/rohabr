@@ -12,5 +12,3 @@ Hi, I'm a 3rd-year IT and Information Systems student at the University of Agder
 ### ✍️ Todays quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=rohabr&icon=7&color=10)](https://visitcount.itsvg.in)
