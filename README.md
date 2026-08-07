@@ -1,5 +1,5 @@
 # 🪷 About Me:
-Hi, I'm a 3rd-year IT and Information Systems student at the University of Agder, currently figuring out my path toward cybersecurity.<br><br>🔭 Right now I'm deep in coursework covering systems analysis, database design, and software development<br>🌱 Learning the fundamentals of system analysis, data modeling, trying to build a solid base before specializing further<br>🤝 Always up for collaborating on small dev or database projects, especially anything hands on where I can actually apply what I'm        studying<br>🆘 Looking for real-world experience, nternships, small projects, or just people willing to show me how things work outside the classroom<br>
+Hi, I'm a 3rd-year IT and Information Systems student at the University of Agder, currently figuring out my path toward cybersecurity.<br><br>🔭 Right now I'm deep in coursework covering systems analysis, database design, and software development<br>🌱 Learning the fundamentals of system analysis, data modeling, trying to build a solid base before specializing further<br>🤝 Always up for collaborating on small dev or database projects, especially anything hands on where I can actually apply what I'm studying<br>🆘 Looking for real-world experience, internships, small projects, or just people willing to show me how things work outside the classroom<br>
 
 
 # 💻 Tech Stack:
